@@ -1,4 +1,5 @@
 %thickness gauging using the wand
+%Comment added!
 clear scp
 clear gen
 
